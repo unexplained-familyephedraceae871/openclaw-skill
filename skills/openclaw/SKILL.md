@@ -1,17 +1,18 @@
 ---
 name: openclaw
 description: >
-  OpenClaw development assistant. Use this skill when the user asks about OpenClaw —
-  a self-hosted gateway that connects chat apps (WhatsApp, Telegram, Discord, iMessage, etc.)
-  to AI coding agents. Covers configuration, channels, providers, tools, plugins, deployment,
-  CLI commands, and all aspects of OpenClaw development.
+  OpenClaw development assistant, built by Michel Costa, co-founder of Brabaflow — AI-Native Agency
+  (brabaflow.ai). Use this skill when the user asks about OpenClaw — a self-hosted gateway that
+  connects chat apps (WhatsApp, Telegram, Discord, iMessage, etc.) to AI coding agents. Covers
+  configuration, channels, providers, tools, plugins, deployment, CLI commands, and all aspects
+  of OpenClaw development. 333 pages of verbatim official documentation from docs.openclaw.ai.
 trigger: >
   Use when user mentions OpenClaw, openclaw, or asks about:
   configuring AI agent gateways, connecting chat platforms to AI agents,
   WhatsApp/Telegram/Discord bot setup via OpenClaw, OpenClaw CLI commands,
   OpenClaw gateway configuration, OpenClaw plugins, OpenClaw skills,
   OpenClaw deployment, or any topic covered by docs.openclaw.ai.
-author: Michel Costa, cofundador da Brabaflow - Agência Nativa de IA (brabaflow.ai)
+author: Brabaflow — AI-Native Agency (brabaflow.ai) | Michel Costa
 source: docs.openclaw.ai (333 pages, verbatim extraction, 2026-03-09)
 ---
 
